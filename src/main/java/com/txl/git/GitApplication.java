@@ -5,4 +5,7 @@ package com.txl.git;
  * @create 2021-12-15  22:58
  */
 public class GitApplication {
+    public static void main(String[] args) {
+
+    }
 }
