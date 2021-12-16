@@ -11,5 +11,7 @@ public class GitApplication {
         System.out.println("master master");
 
         System.out.println("game game");
+
+        System.out.println("push origin");
     }
 }
